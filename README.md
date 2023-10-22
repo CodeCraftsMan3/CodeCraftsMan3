@@ -56,3 +56,10 @@
 </p>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba (LinuxVoiceAssistant)" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
+
+
+### Stargazers
+[![Stargazers repo roster for @r0cketp0wer/r0cketp0wer](https://reporoster.com/stars/r0cketp0wer/r0cketp0wer)](https://github.com/r0cketp0wer/r0cketp0wer)
+

@@ -1,4 +1,4 @@
-### 👋 (❤ω❤) Ohayō *Rico* 
+ ### 👋 (❤ω❤) Ohayō *Friend* 
 ### Where to find me
 <div align="center">
 <a href="https://github.com/r0cketp0wer" target="_blank">
@@ -41,9 +41,9 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/r0cketp0wer"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=r0cketp0wer&color=blueviolet&style=flat-square"></a>
 
-![coverage](https://img.shields.io/badge/coverage-79%25-yellowgreen)
+![coverage](https://img.shields.io/badge/coverage-93%25-yellowgreen)
 ![codacy](https://img.shields.io/badge/codacy-A-green)
-![downloads](https://img.shields.io/badge/downloads-196%2Fmonth-brightgreen)
+![downloads](https://img.shields.io/badge/downloads-1.2k%2Fmonth-brightgreen)
 ![version](https://img.shields.io/badge/version-0.0.2-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
@@ -56,6 +56,8 @@
 <a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/r0cketp0wer/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark"></a>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
 

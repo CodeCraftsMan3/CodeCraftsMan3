@@ -1,15 +1,13 @@
-### Hi there 👋
-
-### Hi there,welcome to my profile👌
+### 👋 (❤ω❤) Ohayō *Rico* 
 ### Where to find me
 <div align="center">
 <a href="https://github.com/r0cketp0wer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/NRocketmann" target="_blank">
+<a href="https://twitter.com/NRocketmann" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/madmax4708/" target="_blank">
+<a href="https://www.instagram.com/rocketman_mega" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 ### Things I code with
@@ -55,11 +53,12 @@
 <a href="https://github.com/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cketp0wer&layout=compact&theme=dark"></a>
 </p>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba (LinuxVoiceAssistant)" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
+<a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
 
-[![github-readme-twitter](https://github-readme-x.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
 
 
 ### Stargazers
 [![Stargazers repo roster for @r0cketp0wer/r0cketp0wer](https://reporoster.com/stars/r0cketp0wer/r0cketp0wer)](https://github.com/r0cketp0wer/r0cketp0wer)
-

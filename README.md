@@ -55,6 +55,8 @@
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
 <p align="center"
+<a href="https://github.com/https://github.com/r0cketp0wer/Keylogger"><img title="Keylogger" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Keylogger&theme=dark"></a>
+<p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark"></a>

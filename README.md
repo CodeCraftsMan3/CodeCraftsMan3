@@ -1,18 +1,25 @@
- ### 👋 (❤ω❤) Ohayō *Friend* 
-### Where to find me
-<div align="center">
-<a href="https://github.com/r0cketp0wer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/NRocketmann" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/rocketman_mega" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+# 👋 Hello, Friend! (❤ω❤) Ohayō
 
-### Things I code with
+<div style="text-align: center;">
+  <h2>Where to find me.</h2>
+</div>
+<div align="center">
+  <a href="https://github.com/r0cketp0wer" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/NRocketmann" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/rocketman_mega" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <h2>What I Code With.</h2>
+</div>
 <p align="center">
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -38,25 +45,50 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/r0cketp0wer"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=r0cketp0wer&color=blueviolet&style=flat-square"></a>
 
-![coverage](https://img.shields.io/badge/coverage-93%25-yellowgreen)
-![codacy](https://img.shields.io/badge/codacy-A-green)
-![downloads](https://img.shields.io/badge/downloads-11.2k%2Fmonth-brightgreen)
-![version](https://img.shields.io/badge/version-0.0.4-blue)
-![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/r0cketp0wer"><img width=550 src="https://github-profile-trophy.vercel.app/?username=r0cketp0wer&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-<a href="https://github.com/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api?username=r0cketp0wer&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
-<a href="https://github.com/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cketp0wer&layout=compact&theme=dark"></a>
-</p>
-<p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
-<p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/Keylogger"><img title="Keylogger" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Keylogger&theme=dark"></a>
-<p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
-<p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark"></a>
+<div style="text-align: center;">
+  <h2>🏆 Profile Statistics</h2>
+</div>
+<div align="center">
+  <a href="https://github.com/r0cketp0wer">
+    <img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=r0cketp0wer&color=blueviolet&style=flat-square" alt="profile counter">
+  </a>
+  ![Coverage](https://img.shields.io/badge/coverage-82%25-yellowgreen)
+  ![Codacy](https://img.shields.io/badge/codacy-A-green)
+  ![Downloads](https://img.shields.io/badge/downloads-11.2k%2Fmonth-brightgreen)
+  ![Version](https://img.shields.io/badge/version-0.0.4-blue)
+  ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+</div>
+
+<div style="text-align: center;">
+  <h2>🏆 GitHub Statistics</h2>
+</div>
+<div align="center">
+  <a href="https://github.com/r0cketp0wer">
+    <img width="550" src="https://github-profile-trophy.vercel.app/?username=r0cketp0wer&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues" alt="GitHub trophies">
+  </a>
+  <a href="https://github.com/r0cketp0wer">
+    <img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api?username=r0cketp0wer&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200" alt="GitHub stats">
+  </a>
+  <a href="https://github.com/r0cketp0wer">
+    <img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cketp0wer&layout=compact&theme=dark" alt="Top programming languages">
+  </a>
+</div>
+
+<div style="text-align: center;">
+  <h2>Projects</h2>
+</div>
+<div align="center">
+  <a href="https://github.com/r0cketp0wer/InstaHack">
+    <img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark" alt="InstaHack project">
+  </a>
+  <a href="https://github.com/r0cketp0wer/Keylogger">
+    <img title="Keylogger" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Keylogger&theme=dark" alt="Keylogger project">
+  </a>
+  <a href="https://github.com/r0cketp0wer/Simba">
+    <img title="Simba(Linux Voice Assistant)" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark" alt="Simba project">
+  </a>
+  <a href="https://github.com/r0cketp0wer/r0cketp0wer">
+    <img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark" alt="r0cketp0wer project">
+  </a>
+</div>

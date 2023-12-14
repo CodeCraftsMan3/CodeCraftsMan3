@@ -44,7 +44,7 @@
 ![coverage](https://img.shields.io/badge/coverage-93%25-yellowgreen)
 ![codacy](https://img.shields.io/badge/codacy-A-green)
 ![downloads](https://img.shields.io/badge/downloads-11.2k%2Fmonth-brightgreen)
-![version](https://img.shields.io/badge/version-0.0.3-blue)
+![version](https://img.shields.io/badge/version-0.0.4-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/r0cketp0wer"><img width=550 src="https://github-profile-trophy.vercel.app/?username=r0cketp0wer&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -60,9 +60,3 @@
 <a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark"></a>
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
-
-
-### Stargazers
-[![Stargazers repo roster for @r0cketp0wer/r0cketp0wer](https://reporoster.com/stars/r0cketp0wer/r0cketp0wer)](https://github.com/r0cketp0wer/r0cketp0wer)

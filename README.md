@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**r0cketp0wer/r0cketp0wer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**r0cketp0wer/r0cketp0wer** is my ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on Instagram Hacking Tools
 - 🌱 I’m currently learning Software Engineering

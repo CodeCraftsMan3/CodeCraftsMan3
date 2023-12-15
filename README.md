@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
 **r0cketp0wer/r0cketp0wer** is my ✨ _special_ ✨ repository.
 
@@ -67,6 +67,10 @@
 </p>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/r0cketp0wer/InstaBox"><img title="InstaBox" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaBox&theme=dark"></a>
+<p align="center"
+<a href="https://github.com/https://github.com/r0cketp0wer/KeyLogger"><img title="KeyLogger" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=KeyLogger&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
 <p align="center"

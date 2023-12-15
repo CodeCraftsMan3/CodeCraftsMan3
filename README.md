@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **r0cketp0wer/r0cketp0wer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Get Links On My Profile.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Human Being
--->

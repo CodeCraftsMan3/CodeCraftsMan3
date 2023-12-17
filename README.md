@@ -54,9 +54,9 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/r0cketp0wer"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=r0cketp0wer&color=blueviolet&style=flat-square"></a>
 
-![Coverage](https://img.shields.io/badge/coverage-68%25-yellowgreen)
+![Coverage](https://img.shields.io/badge/coverage-87%25-yellowgreen)
 ![Codacy Level](https://img.shields.io/badge/codacy-A-green)
-![Downloads](https://img.shields.io/badge/downloads-196k%2Fmonth-brightgreen)
+![Downloads](https://img.shields.io/badge/downloads-1.3k%2Fmonth-brightgreen)
 ![Version](https://img.shields.io/badge/version-0.0.5-blue)
 ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>

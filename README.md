@@ -57,7 +57,7 @@
 ![Coverage](https://img.shields.io/badge/coverage-87%25-yellowgreen)
 ![Codacy Level](https://img.shields.io/badge/codacy-A-green)
 ![Downloads](https://img.shields.io/badge/downloads-1.3k%2Fmonth-brightgreen)
-![Version](https://img.shields.io/badge/version-0.0.5-blue)
+![Version](https://img.shields.io/badge/version-0.0.6-blue)
 ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/r0cketp0wer"><img width=550 src="https://github-profile-trophy.vercel.app/?username=r0cketp0wer&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>

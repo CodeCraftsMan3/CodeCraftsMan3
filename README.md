@@ -66,6 +66,8 @@
 <a href="https://github.com/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cketp0wer&layout=compact&theme=dark"></a>
 </p>
 <p align="center"
+<a href="https://github.com/https://github.com/r0cketp0wer/Trending-Repos-Tracker"><img title="Trending-Repos-Tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Trending-Repos-Tracker&theme=dark"></a>
+<p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/InstaBox"><img title="InstaBox" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaBox&theme=dark"></a>

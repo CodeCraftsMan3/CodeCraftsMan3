@@ -79,3 +79,5 @@
 <a href="https://github.com/https://github.com/r0cketp0wer/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/r0cketp0wer/ASKT"><img title="ASKT" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=ASKT&theme=dark"></a>"
+
+![Alt](https://repobeats.axiom.co/api/embed/2b4d67210eeffd597371c7024e670d1719183960.svg "Repobeats analytics image")

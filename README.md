@@ -1,6 +1,6 @@
  ### Hi there 👋
 
-**r0cketp0wer/r0cketp0wer** is my ✨ _special_ ✨ repository.
+**CodeCraftsMan3/CodeCraftsMan3** is my ✨ _special_ ✨ repository.
 
 - 🔭 I’m currently working on Instagram Hacking Tools
 - 🌱 I’m currently learning Software Engineering
@@ -14,10 +14,10 @@
 
 ### Where to find me
 <div align="center">
-<a href="https://github.com/r0cketp0wer" target="_blank">
+<a href="https://github.com/CodeCraftsMan3" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/NRocketmann" target="_blank">
+<a href="https://twitter.com/CodeCraftsMan3" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/rocketman_mega" target="_blank">
@@ -52,32 +52,32 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/r0cketp0wer"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=r0cketp0wer&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/CodeCraftsMan3"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=CodeCraftsMan3&color=blueviolet&style=flat-square"></a>
 
-![Coverage](https://img.shields.io/badge/coverage-87%25-yellowgreen)
+![Coverage](https://img.shields.io/badge/coverage-73%25-yellowgreen)
 ![Codacy Level](https://img.shields.io/badge/codacy-A-green)
-![Downloads](https://img.shields.io/badge/downloads-1.3k%2Fmonth-brightgreen)
-![Version](https://img.shields.io/badge/version-0.0.6-blue)
+![Downloads](https://img.shields.io/badge/downloads-12.3k%2Fmonth-brightgreen)
+![Version](https://img.shields.io/badge/version-0.0.7-blue)
 ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/r0cketp0wer"><img width=550 src="https://github-profile-trophy.vercel.app/?username=r0cketp0wer&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-<a href="https://github.com/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api?username=r0cketp0wer&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/CodeCraftsMan3"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CodeCraftsMan3&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/CodeCraftsMan3"><img title="CodeCraftsMan3" src="https://github-readme-stats.vercel.app/api?username=CodeCraftsMan3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
-<a href="https://github.com/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0cketp0wer&layout=compact&theme=dark"></a>
+<a href="https://github.com/CodeCraftsMan3"><img title="CodeCraftsMan3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsMan3&layout=compact&theme=dark"></a>
 </p>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/Trending-Repos-Tracker"><img title="Trending-Repos-Tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Trending-Repos-Tracker&theme=dark"></a>
+<a href="https://github.com/https://github.com/CodeCraftsMan3/Trending-Repos-Tracker"><img title="Trending-Repos-Tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=Trending-Repos-Tracker&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaHack&theme=dark"></a>
+<a href="https://github.com/https://github.com/CodeCraftsMan3/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=InstaHack&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/InstaBox"><img title="InstaBox" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=InstaBox&theme=dark"></a>
+<a href="https://github.com/https://github.com/CodeCraftsMan3/InstaBox"><img title="InstaBox" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=InstaBox&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/KeyLogger"><img title="KeyLogger" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=KeyLogger&theme=dark"></a>
+<a href="https://github.com/https://github.com/CodeCraftsMan3/KeyLogger"><img title="KeyLogger" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=KeyLogger&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=Simba&theme=dark"></a>
+<a href="https://github.com/https://github.com/CodeCraftsMan3/Simba"><img title="Simba(Linux Voice Assistant" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=Simba&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/r0cketp0wer"><img title="r0cketp0wer" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=r0cketp0wer&theme=dark"></a>
+<a href="https://github.com/https://github.com/CodeCraftsMan3/CodeCraftsMan3"><img title="CodeCraftsMan3" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=CodeCraftsMan3&theme=dark"></a>
 <p align="center"
-<a href="https://github.com/https://github.com/r0cketp0wer/ASKT"><img title="ASKT" src="https://github-readme-stats.vercel.app/api/pin/?username=r0cketp0wer&repo=ASKT&theme=dark"></a>"
+<a href="https://github.com/https://github.com/CodeCraftsMan3/ASKT"><img title="ASKT" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=ASKT&theme=dark"></a>"
 
 ![Alt](https://repobeats.axiom.co/api/embed/2b4d67210eeffd597371c7024e670d1719183960.svg "Repobeats analytics image")

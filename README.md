@@ -20,7 +20,7 @@
 <a href="https://twitter.com/CodeCraftsMan3" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/rocketman_mega" target="_blank">
+<a href="https://www.instagram.com/codecraftsman3" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 ### What I Code With
@@ -57,7 +57,7 @@
 ![Coverage](https://img.shields.io/badge/coverage-73%25-yellowgreen)
 ![Codacy Level](https://img.shields.io/badge/codacy-A-green)
 ![Downloads](https://img.shields.io/badge/downloads-12.3k%2Fmonth-brightgreen)
-![Version](https://img.shields.io/badge/version-0.0.7-blue)
+![Version](https://img.shields.io/badge/version-0.0.8-blue)
 ![Rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/CodeCraftsMan3"><img width=550 src="https://github-profile-trophy.vercel.app/?username=CodeCraftsMan3&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>

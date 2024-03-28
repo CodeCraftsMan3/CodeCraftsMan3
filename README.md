@@ -66,8 +66,6 @@
 <a href="https://github.com/CodeCraftsMan3"><img title="CodeCraftsMan3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsMan3&layout=compact&theme=dark"></a>
 </p>
 <p align="center"
-<a href="https://github.com/https://github.com/CodeCraftsMan3/Trending-Open-Source-Apps"><img title="Trending Open Source Apps" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=Trending-Open-Source-Apps&theme=dark"></a>
-<p align="center"
 <a href="https://github.com/https://github.com/CodeCraftsMan3/Trending-Repos-Tracker"><img title="Trending-Repos-Tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=Trending-Repos-Tracker&theme=dark"></a>
 <p align="center"
 <a href="https://github.com/https://github.com/CodeCraftsMan3/InstaHack"><img title="InstaHack" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeCraftsMan3&repo=InstaHack&theme=dark"></a>
